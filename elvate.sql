@@ -52,6 +52,7 @@ INSERT INTO Members (FullName, Email) VALUES ('rakesh', 'rakesh@gamil.com');
 INSERT INTO Members (FullName, Email) VALUES ('ravi', 'ravi@gmail.com');
 INSERT INTO Members (FullName, Email) VALUES ('summi', 'summi@gmail.com');
 INSERT INTO Members (FullName, Email) VALUES ('guru', 'guru@gmail.com');
+INSERT INTO Members (FullName, Email) VALUES ('ek', 'ek@gmail.com');
 
 select * from Members;
 CREATE TABLE Borrowings (
