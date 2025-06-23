@@ -37,7 +37,7 @@ INSERT INTO Books (Title, AuthorID, CategoryID) VALUES ('Harry Potter', 1, 1);
 INSERT INTO Books (Title, AuthorID, CategoryID) VALUES ('naruto', 2, 2);
 INSERT INTO Books (Title, AuthorID, CategoryID) VALUES ('sololeveling', 3, 3);
 INSERT INTO Books (Title, AuthorID, CategoryID) VALUES ('jannu', 4, 4);
-INSERT INTO Books (Title, AuthorID, CategoryID) VALUES ('harry', 5, 5);
+
 
 select * from Books;
 rollback;
