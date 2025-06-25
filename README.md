@@ -19,7 +19,7 @@ CREATE TABLE Categories (...);
 INSERT INTO Categories (...) VALUES (...);
 
 -- Create Books table with Foreign Keys
-CREATE TABLE Books (...);
+   CREATE TABLE Books (...);
 
 -- Create Members and Borrowings tables
 CREATE TABLE Members (...);
