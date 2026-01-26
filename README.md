@@ -1,5 +1,5 @@
 task 1:Database Setup and Schema Design.
---------------------------------------------
+-------------------------------------------
 
 creating a database LibraryDB then we want use the database by using 'use LibraryDB '
 then we can create the tables in database and adding primary key & foreign key for relationships
