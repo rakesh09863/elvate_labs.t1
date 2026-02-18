@@ -9,7 +9,7 @@ then we can create the tables in database and adding primary key & foreign key f
 
 -- create the database
 create database LibraryDB;
-USE LibraryDB;
+USE LibraryDB; 
 
 -- Create and populate Authors table
 create table Authors (...);
